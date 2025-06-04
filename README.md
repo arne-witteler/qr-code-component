@@ -20,7 +20,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Your Frontend Mentor submission link](https://www.frontendmentor.io/solutions/your-solution-slug)
+- Solution URL: [Frontend Mentor link](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-flexbox-and-css-variables-k62JR5igPu)
 - Live Site URL: [Live demo](https://qr-code-component-xi-ten.vercel.app/)
 
 ## My process
